@@ -25,13 +25,11 @@
     <a href="https://nodejs.org" target="_blank" data-bs-toggle="tooltip" title="NodeJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <!–– EXPRESS JS ––>
     <a href="https://expressjs.com" target="_blank" data-bs-toggle="tooltip" title="ExpressJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
   <a href="https://www.mysql.com/" target="_blank" data-bs-toggle="tooltip" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <!–– GIT ––>
+  
   <a href="https://git-scm.com/" target="_blank" data-bs-toggle="tooltip" title="GIT"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!–– BASH ––>
   <a href="https://www.gnu.org/software/bash/" target="_blank" data-bs-toggle="tooltip" title="Bash"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <!–– POSTMAN––>
+  
   <a href="https://postman.com" target="_blank" data-bs-toggle="tooltip" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
 <br/>
