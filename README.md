@@ -28,6 +28,8 @@
     <a href="https://expressjs.com" target="_blank" data-bs-toggle="tooltip" title="ExpressJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <!–– MYSQL ––>
   <a href="https://www.mysql.com/" target="_blank" data-bs-toggle="tooltip" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <!–– Firebase ––>
+  <a href="https://firebase.google.com/" target="_blank" data-bs-toggle="tooltip" title="MySQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="mysql" width="40" height="40"/> </a> 
   <!–– GIT ––>
   <a href="https://git-scm.com/" target="_blank" data-bs-toggle="tooltip" title="GIT"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!–– BASH ––>
