@@ -6,7 +6,7 @@
 - 🚀 Finalicé bootcamp de Desarrollo Web Full Stack en Digital House.
 - 🌱 Actualmente me encuentro estudiando React JS en Coder House.
 - ⚡ Más sobre mí: soy fotógrafo aficionado, me gusta leer y hacer deportes.
-- 
+
 <h3 align="left">Lenguajes y tecnologías que domino:</h3>
 <br/>
 <p align="center"> 
@@ -32,7 +32,7 @@
   <a href="https://git-scm.com/" target="_blank" data-bs-toggle="tooltip" title="GIT"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!–– BASH ––>
   <a href="https://www.gnu.org/software/bash/" target="_blank" data-bs-toggle="tooltip" title="Bash"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <!–– POSTMAN––>
+  <!–– POSTMN––>
   <a href="https://postman.com" target="_blank" data-bs-toggle="tooltip" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
 <br/>
