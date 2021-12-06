@@ -47,5 +47,5 @@
 
 <h3 align="left">Proyecto destacado:</h3>
 <p align="center"> 
-  <a href="https://github.com/Aleex1237/Grupo_6_HomeExperience" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-libreria&repo=grupo_8_LEAF&theme=tokyonight"></a>
+  <a href="https://github.com/Aleex1237/Grupo_6_HomeExperience" target="_blank"><img align="center" src="https://github.com/Aleex1237/Grupo_6_HomeExperience"></a>
 </p>
