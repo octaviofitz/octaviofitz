@@ -44,8 +44,3 @@
     <a href="https://github.com/octaviofitz"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </p>
-
-<h3 align="left">Proyecto destacado:</h3>
-<p align="center"> 
-  <a href="https://github.com/Aleex1237/Grupo_6_HomeExperience" target="_blank"><img align="center" src="https://github.com/Aleex1237/Grupo_6_HomeExperience"></a>
-</p>
