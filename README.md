@@ -5,7 +5,8 @@
 
 - 🚀 Finalicé bootcamp de Desarrollo Web Full Stack en Digital House.
 - 🌱 Actualmente me encuentro estudiando React JS en Coder House.
-
+- ⚡ Más sobre mí: soy fotógrafo aficionado, me gusta leer y hacer deportes.
+- 
 <h3 align="left">Lenguajes y tecnologías que domino:</h3>
 <br/>
 <p align="center"> 
