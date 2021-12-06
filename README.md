@@ -6,7 +6,7 @@
 - 🚀 Finalicé bootcamp de Desarrollo Web Full Stack en Digital House.
 - 🌱 Actualmente me encuentro estudiando React JS en Coder House.
 
-<h3 align="left">Tecnologías y herramientas que utilizo:</h3>
+<h3 align="left">Lenguajes y tecnologías que domino:</h3>
 <br/>
 <p align="center"> 
   <!–– JS ––>
@@ -36,11 +36,16 @@
   </p>
 <br/>
 
-<h3 align="left">Encuéntrame en :</h3>
+<h3 align="left">Encuéntrame en:</h3>
 <p align="left">
   <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/octavio-fitzmaurice/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:octaviofitz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/octaviofitz"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+</p>
+
+<h3 align="left">Proyecto destacado:</h3>
+<p align="center"> 
+  <a href="https://github.com/Aleex1237/Grupo_6_HomeExperience" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-libreria&repo=grupo_8_LEAF&theme=tokyonight"></a>
 </p>
