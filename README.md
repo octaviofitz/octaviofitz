@@ -35,3 +35,12 @@
   <a href="https://postman.com" target="_blank" data-bs-toggle="tooltip" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   </p>
 <br/>
+
+<h3 align="left">Encuéntrame en :</h3>
+<p align="left">
+  <p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/octavio-fitzmaurice/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:octaviofitz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/octaviofitz"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</p>
